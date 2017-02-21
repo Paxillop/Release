@@ -1,1 +1,4 @@
-Game ready to play
+# Project name
+RPG fighter
+# Credits
+Here
